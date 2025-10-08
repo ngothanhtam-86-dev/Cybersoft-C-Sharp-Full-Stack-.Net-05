@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\bin\Debug\net9.0\bt_tinhTienthemVAT.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\bin\Debug\net9.0\bt_tinhTienthemVAT.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\bin\Debug\net9.0\bt_tinhTienthemVAT.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\bin\Debug\net9.0\bt_tinhTienthemVAT.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\bin\Debug\net9.0\bt_tinhTienthemVAT.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\bt_tinhTienthemVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\bt_tinhTienthemVAT.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\bt_tinhTienthemVAT.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\bt_tinhTienthemVAT.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\bt_tinhTienthemVAT.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\refint\bt_tinhTienthemVAT.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\bt_tinhTienthemVAT.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\bt_tinhTienthemVAT.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTienthemVAT\obj\Debug\net9.0\ref\bt_tinhTienthemVAT.dll
