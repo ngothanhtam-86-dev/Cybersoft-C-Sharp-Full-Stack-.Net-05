@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bt_tinhTongDonHang/1.0.0": {
+        "runtime": {
+          "bt_tinhTongDonHang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bt_tinhTongDonHang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\bin\Debug\net9.0\bt_tinhTongDonHang.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\bin\Debug\net9.0\bt_tinhTongDonHang.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\bin\Debug\net9.0\bt_tinhTongDonHang.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\bin\Debug\net9.0\bt_tinhTongDonHang.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\bin\Debug\net9.0\bt_tinhTongDonHang.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\bt_tinhTongDonHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\bt_tinhTongDonHang.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\bt_tinhTongDonHang.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\bt_tinhTongDonHang.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\bt_tinhTongDonHang.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\refint\bt_tinhTongDonHang.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\bt_tinhTongDonHang.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\bt_tinhTongDonHang.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTongDonHang\obj\Debug\net9.0\ref\bt_tinhTongDonHang.dll
