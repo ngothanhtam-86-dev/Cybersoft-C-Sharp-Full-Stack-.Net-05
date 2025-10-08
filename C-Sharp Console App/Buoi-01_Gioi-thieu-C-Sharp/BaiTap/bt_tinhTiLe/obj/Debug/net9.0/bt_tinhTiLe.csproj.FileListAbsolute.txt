@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\bin\Debug\net9.0\bt_tinhTiLe.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\bin\Debug\net9.0\bt_tinhTiLe.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\bin\Debug\net9.0\bt_tinhTiLe.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\bin\Debug\net9.0\bt_tinhTiLe.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\bin\Debug\net9.0\bt_tinhTiLe.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\bt_tinhTiLe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\bt_tinhTiLe.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\bt_tinhTiLe.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\bt_tinhTiLe.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\bt_tinhTiLe.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\refint\bt_tinhTiLe.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\bt_tinhTiLe.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\bt_tinhTiLe.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhTiLe\obj\Debug\net9.0\ref\bt_tinhTiLe.dll
