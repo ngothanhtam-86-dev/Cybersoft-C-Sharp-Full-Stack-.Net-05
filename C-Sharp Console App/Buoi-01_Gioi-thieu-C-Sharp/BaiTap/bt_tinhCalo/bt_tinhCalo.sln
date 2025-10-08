@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt_tinhCalo", "bt_tinhCalo.csproj", "{96E0B3AF-EA71-028D-2D60-67B45D0BDD1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E0B3AF-EA71-028D-2D60-67B45D0BDD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E0B3AF-EA71-028D-2D60-67B45D0BDD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E0B3AF-EA71-028D-2D60-67B45D0BDD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E0B3AF-EA71-028D-2D60-67B45D0BDD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB7736F0-86BC-4C41-B1F2-51AAD5032B61}
+	EndGlobalSection
+EndGlobal
