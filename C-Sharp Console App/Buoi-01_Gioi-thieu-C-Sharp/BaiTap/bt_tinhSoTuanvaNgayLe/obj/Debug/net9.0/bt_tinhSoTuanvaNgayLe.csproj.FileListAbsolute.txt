@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\bin\Debug\net9.0\bt_tinhSoTuanvaNgayLe.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\bin\Debug\net9.0\bt_tinhSoTuanvaNgayLe.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\bin\Debug\net9.0\bt_tinhSoTuanvaNgayLe.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\bin\Debug\net9.0\bt_tinhSoTuanvaNgayLe.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\bin\Debug\net9.0\bt_tinhSoTuanvaNgayLe.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\bt_tinhSoTuanvaNgayLe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\bt_tinhSoTuanvaNgayLe.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\bt_tinhSoTuanvaNgayLe.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\bt_tinhSoTuanvaNgayLe.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\bt_tinhSoTuanvaNgayLe.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\refint\bt_tinhSoTuanvaNgayLe.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\bt_tinhSoTuanvaNgayLe.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\bt_tinhSoTuanvaNgayLe.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoTuanvaNgayLe\obj\Debug\net9.0\ref\bt_tinhSoTuanvaNgayLe.dll
