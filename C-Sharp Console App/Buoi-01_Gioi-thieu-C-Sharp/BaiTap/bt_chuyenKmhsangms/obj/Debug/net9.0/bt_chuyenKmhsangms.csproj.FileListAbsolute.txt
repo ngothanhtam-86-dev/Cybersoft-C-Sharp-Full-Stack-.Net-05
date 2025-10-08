@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\bin\Debug\net9.0\bt_chuyenKmhsangms.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\bin\Debug\net9.0\bt_chuyenKmhsangms.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\bin\Debug\net9.0\bt_chuyenKmhsangms.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\bin\Debug\net9.0\bt_chuyenKmhsangms.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\bin\Debug\net9.0\bt_chuyenKmhsangms.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\bt_chuyenKmhsangms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\bt_chuyenKmhsangms.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\bt_chuyenKmhsangms.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\bt_chuyenKmhsangms.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\bt_chuyenKmhsangms.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\refint\bt_chuyenKmhsangms.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\bt_chuyenKmhsangms.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\bt_chuyenKmhsangms.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenKmhsangms\obj\Debug\net9.0\ref\bt_chuyenKmhsangms.dll
