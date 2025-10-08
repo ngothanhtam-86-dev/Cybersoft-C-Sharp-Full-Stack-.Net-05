@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\bin\Debug\net9.0\bt_tinhSoDuTaiKhoan.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\bin\Debug\net9.0\bt_tinhSoDuTaiKhoan.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\bin\Debug\net9.0\bt_tinhSoDuTaiKhoan.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\bin\Debug\net9.0\bt_tinhSoDuTaiKhoan.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\bin\Debug\net9.0\bt_tinhSoDuTaiKhoan.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\bt_tinhSoDuTaiKhoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\bt_tinhSoDuTaiKhoan.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\bt_tinhSoDuTaiKhoan.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\bt_tinhSoDuTaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\bt_tinhSoDuTaiKhoan.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\refint\bt_tinhSoDuTaiKhoan.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\bt_tinhSoDuTaiKhoan.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\bt_tinhSoDuTaiKhoan.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_tinhSoDuTaiKhoan\obj\Debug\net9.0\ref\bt_tinhSoDuTaiKhoan.dll
