@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\bin\Debug\net9.0\bt_chuyenPhutsangGioPhut.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\bin\Debug\net9.0\bt_chuyenPhutsangGioPhut.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\bin\Debug\net9.0\bt_chuyenPhutsangGioPhut.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\bin\Debug\net9.0\bt_chuyenPhutsangGioPhut.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\bin\Debug\net9.0\bt_chuyenPhutsangGioPhut.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\bt_chuyenPhutsangGioPhut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\bt_chuyenPhutsangGioPhut.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\bt_chuyenPhutsangGioPhut.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\bt_chuyenPhutsangGioPhut.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\bt_chuyenPhutsangGioPhut.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\refint\bt_chuyenPhutsangGioPhut.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\bt_chuyenPhutsangGioPhut.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\bt_chuyenPhutsangGioPhut.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi1\bt_chuyenPhutsangGioPhut\obj\Debug\net9.0\ref\bt_chuyenPhutsangGioPhut.dll
