@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\bin\Debug\net9.0\bt_tinhchuvidientich_hinhtron.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\bin\Debug\net9.0\bt_tinhchuvidientich_hinhtron.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\bin\Debug\net9.0\bt_tinhchuvidientich_hinhtron.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\bin\Debug\net9.0\bt_tinhchuvidientich_hinhtron.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\bin\Debug\net9.0\bt_tinhchuvidientich_hinhtron.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\bt_tinhchuvidientich_hinhtron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\bt_tinhchuvidientich_hinhtron.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\bt_tinhchuvidientich_hinhtron.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\bt_tinhchuvidientich_hinhtron.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\bt_tinhchuvidientich_hinhtron.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\refint\bt_tinhchuvidientich_hinhtron.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\bt_tinhchuvidientich_hinhtron.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\bt_tinhchuvidientich_hinhtron.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_tinhchuvidientich_hinhtron\obj\Debug\net9.0\ref\bt_tinhchuvidientich_hinhtron.dll

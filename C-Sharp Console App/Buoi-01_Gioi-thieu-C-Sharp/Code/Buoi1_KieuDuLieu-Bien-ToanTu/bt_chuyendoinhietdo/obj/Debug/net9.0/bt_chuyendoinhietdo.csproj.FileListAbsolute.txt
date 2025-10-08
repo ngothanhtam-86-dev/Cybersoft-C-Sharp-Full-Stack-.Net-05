@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\bin\Debug\net9.0\bt_chuyendoinhietdo.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\bin\Debug\net9.0\bt_chuyendoinhietdo.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\bin\Debug\net9.0\bt_chuyendoinhietdo.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\bin\Debug\net9.0\bt_chuyendoinhietdo.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\bin\Debug\net9.0\bt_chuyendoinhietdo.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\bt_chuyendoinhietdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\bt_chuyendoinhietdo.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\bt_chuyendoinhietdo.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\bt_chuyendoinhietdo.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\bt_chuyendoinhietdo.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\refint\bt_chuyendoinhietdo.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\bt_chuyendoinhietdo.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\bt_chuyendoinhietdo.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi1_v2\bt_chuyendoinhietdo\obj\Debug\net9.0\ref\bt_chuyendoinhietdo.dll

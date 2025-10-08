@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "kieudulieu_bien_giatri_toantu/1.0.0": {
+        "runtime": {
+          "kieudulieu_bien_giatri_toantu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kieudulieu_bien_giatri_toantu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

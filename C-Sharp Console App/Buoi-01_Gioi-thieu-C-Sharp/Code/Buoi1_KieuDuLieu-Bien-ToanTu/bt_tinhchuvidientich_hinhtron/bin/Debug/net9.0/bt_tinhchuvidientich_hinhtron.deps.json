@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bt_tinhchuvidientich_hinhtron/1.0.0": {
+        "runtime": {
+          "bt_tinhchuvidientich_hinhtron.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bt_tinhchuvidientich_hinhtron/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
