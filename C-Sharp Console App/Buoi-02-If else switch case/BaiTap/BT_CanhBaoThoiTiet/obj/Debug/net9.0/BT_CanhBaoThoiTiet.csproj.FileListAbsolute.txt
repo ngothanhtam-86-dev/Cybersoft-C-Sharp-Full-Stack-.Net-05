@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\bin\Debug\net9.0\BT_CanhBaoThoiTiet.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\bin\Debug\net9.0\BT_CanhBaoThoiTiet.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\bin\Debug\net9.0\BT_CanhBaoThoiTiet.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\bin\Debug\net9.0\BT_CanhBaoThoiTiet.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\bin\Debug\net9.0\BT_CanhBaoThoiTiet.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\BT_CanhBaoThoiTiet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\BT_CanhBaoThoiTiet.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\BT_CanhBaoThoiTiet.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\BT_CanhBaoThoiTiet.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\BT_CanhBaoThoiTiet.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\refint\BT_CanhBaoThoiTiet.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\BT_CanhBaoThoiTiet.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\BT_CanhBaoThoiTiet.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_CanhBaoThoiTiet\obj\Debug\net9.0\ref\BT_CanhBaoThoiTiet.dll
