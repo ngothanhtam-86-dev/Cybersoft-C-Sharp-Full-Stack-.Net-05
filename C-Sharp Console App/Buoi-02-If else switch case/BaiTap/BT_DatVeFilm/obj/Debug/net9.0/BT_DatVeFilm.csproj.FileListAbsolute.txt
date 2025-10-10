@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\bin\Debug\net9.0\BT_DatVeFilm.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\bin\Debug\net9.0\BT_DatVeFilm.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\bin\Debug\net9.0\BT_DatVeFilm.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\bin\Debug\net9.0\BT_DatVeFilm.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\bin\Debug\net9.0\BT_DatVeFilm.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\BT_DatVeFilm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\BT_DatVeFilm.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\BT_DatVeFilm.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\BT_DatVeFilm.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\BT_DatVeFilm.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\refint\BT_DatVeFilm.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\BT_DatVeFilm.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\BT_DatVeFilm.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_DatVeFilm\obj\Debug\net9.0\ref\BT_DatVeFilm.dll
