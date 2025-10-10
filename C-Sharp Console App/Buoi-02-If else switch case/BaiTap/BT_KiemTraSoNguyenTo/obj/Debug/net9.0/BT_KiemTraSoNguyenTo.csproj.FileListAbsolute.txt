@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\bin\Debug\net9.0\BT_KiemTraSoNguyenTo.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\bin\Debug\net9.0\BT_KiemTraSoNguyenTo.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\bin\Debug\net9.0\BT_KiemTraSoNguyenTo.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\bin\Debug\net9.0\BT_KiemTraSoNguyenTo.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\bin\Debug\net9.0\BT_KiemTraSoNguyenTo.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\BT_KiemTraSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\BT_KiemTraSoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\BT_KiemTraSoNguyenTo.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\BT_KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\BT_KiemTraSoNguyenTo.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\refint\BT_KiemTraSoNguyenTo.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\BT_KiemTraSoNguyenTo.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\BT_KiemTraSoNguyenTo.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_KiemTraSoNguyenTo\obj\Debug\net9.0\ref\BT_KiemTraSoNguyenTo.dll
