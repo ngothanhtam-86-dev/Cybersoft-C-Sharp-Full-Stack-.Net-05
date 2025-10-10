@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\bin\Debug\net9.0\BT_LoaiVeMayBay.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\bin\Debug\net9.0\BT_LoaiVeMayBay.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\bin\Debug\net9.0\BT_LoaiVeMayBay.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\bin\Debug\net9.0\BT_LoaiVeMayBay.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\bin\Debug\net9.0\BT_LoaiVeMayBay.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\BT_LoaiVeMayBay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\BT_LoaiVeMayBay.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\BT_LoaiVeMayBay.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\BT_LoaiVeMayBay.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\BT_LoaiVeMayBay.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\refint\BT_LoaiVeMayBay.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\BT_LoaiVeMayBay.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\BT_LoaiVeMayBay.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_LoaiVeMayBay\obj\Debug\net9.0\ref\BT_LoaiVeMayBay.dll
