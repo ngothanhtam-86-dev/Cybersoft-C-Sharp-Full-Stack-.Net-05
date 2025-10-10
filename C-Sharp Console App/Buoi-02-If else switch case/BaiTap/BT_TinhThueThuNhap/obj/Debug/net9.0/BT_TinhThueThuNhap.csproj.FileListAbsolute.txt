@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\bin\Debug\net9.0\BT_TinhThueThuNhap.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\bin\Debug\net9.0\BT_TinhThueThuNhap.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\bin\Debug\net9.0\BT_TinhThueThuNhap.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\bin\Debug\net9.0\BT_TinhThueThuNhap.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\bin\Debug\net9.0\BT_TinhThueThuNhap.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\BT_TinhThueThuNhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\BT_TinhThueThuNhap.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\BT_TinhThueThuNhap.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\BT_TinhThueThuNhap.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\BT_TinhThueThuNhap.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\refint\BT_TinhThueThuNhap.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\BT_TinhThueThuNhap.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\BT_TinhThueThuNhap.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TinhThueThuNhap\obj\Debug\net9.0\ref\BT_TinhThueThuNhap.dll
