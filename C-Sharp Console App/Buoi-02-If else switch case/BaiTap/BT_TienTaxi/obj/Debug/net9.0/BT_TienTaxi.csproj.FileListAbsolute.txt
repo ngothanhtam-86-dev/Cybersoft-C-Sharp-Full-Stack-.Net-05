@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\bin\Debug\net9.0\BT_TienTaxi.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\bin\Debug\net9.0\BT_TienTaxi.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\bin\Debug\net9.0\BT_TienTaxi.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\bin\Debug\net9.0\BT_TienTaxi.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\bin\Debug\net9.0\BT_TienTaxi.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\BT_TienTaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\BT_TienTaxi.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\BT_TienTaxi.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\BT_TienTaxi.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\BT_TienTaxi.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\refint\BT_TienTaxi.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\BT_TienTaxi.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\BT_TienTaxi.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_TienTaxi\obj\Debug\net9.0\ref\BT_TienTaxi.dll
