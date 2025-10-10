@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\bin\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\bin\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\bin\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\bin\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\bin\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\refint\BT_PhanLoaiNguyenAmPhuAm.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\BT_PhanLoaiNguyenAmPhuAm.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\BaiTap_Buoi2\BT_PhanLoaiNguyenAmPhuAm\obj\Debug\net9.0\ref\BT_PhanLoaiNguyenAmPhuAm.dll
