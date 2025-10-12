@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Vidu7_TimSoNguyenTo/1.0.0": {
+        "runtime": {
+          "Vidu7_TimSoNguyenTo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vidu7_TimSoNguyenTo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
