@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\bin\Debug\net9.0\Vidu1_TongN.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\bin\Debug\net9.0\Vidu1_TongN.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\bin\Debug\net9.0\Vidu1_TongN.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\bin\Debug\net9.0\Vidu1_TongN.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\bin\Debug\net9.0\Vidu1_TongN.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\Vidu1_TongN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\Vidu1_TongN.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\Vidu1_TongN.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\Vidu1_TongN.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\Vidu1_TongN.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\refint\Vidu1_TongN.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\Vidu1_TongN.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\Vidu1_TongN.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu1_TongN\obj\Debug\net9.0\ref\Vidu1_TongN.dll

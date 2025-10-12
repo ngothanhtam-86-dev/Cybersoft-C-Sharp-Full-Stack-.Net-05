@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Vidu1_TongN/1.0.0": {
+        "runtime": {
+          "Vidu1_TongN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vidu1_TongN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
