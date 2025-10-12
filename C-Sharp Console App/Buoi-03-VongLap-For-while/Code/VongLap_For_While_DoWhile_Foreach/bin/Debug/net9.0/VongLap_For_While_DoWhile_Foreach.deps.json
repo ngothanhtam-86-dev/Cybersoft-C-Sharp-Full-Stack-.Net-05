@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VongLap_For_While_DoWhile_Foreach/1.0.0": {
+        "runtime": {
+          "VongLap_For_While_DoWhile_Foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VongLap_For_While_DoWhile_Foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
