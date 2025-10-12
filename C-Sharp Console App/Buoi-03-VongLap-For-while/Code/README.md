@@ -1,7 +1,7 @@
 Chứa code bài học
 - Giới thiệu về vòng lặp
 - Các ví dụ về vòng lặp gồm:
-- 
+
 Ví dụ 1: Tính tổng từ 1 đến n
 Yêu cầu:
 Nhập số nguyên dương n.
