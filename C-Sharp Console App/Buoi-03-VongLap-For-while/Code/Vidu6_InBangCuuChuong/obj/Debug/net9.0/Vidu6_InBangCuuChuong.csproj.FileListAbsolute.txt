@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\bin\Debug\net9.0\Vidu6_InBangCuuChuong.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\bin\Debug\net9.0\Vidu6_InBangCuuChuong.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\bin\Debug\net9.0\Vidu6_InBangCuuChuong.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\bin\Debug\net9.0\Vidu6_InBangCuuChuong.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\bin\Debug\net9.0\Vidu6_InBangCuuChuong.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\Vidu6_InBangCuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\Vidu6_InBangCuuChuong.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\Vidu6_InBangCuuChuong.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\Vidu6_InBangCuuChuong.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\Vidu6_InBangCuuChuong.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\refint\Vidu6_InBangCuuChuong.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\Vidu6_InBangCuuChuong.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\Vidu6_InBangCuuChuong.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu6_InBangCuuChuong\obj\Debug\net9.0\ref\Vidu6_InBangCuuChuong.dll
