@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Vidu5_KiemtraSoNguyenTo/1.0.0": {
+        "runtime": {
+          "Vidu5_KiemtraSoNguyenTo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vidu5_KiemtraSoNguyenTo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
