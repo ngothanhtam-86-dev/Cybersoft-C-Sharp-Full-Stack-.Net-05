@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\bin\Debug\net9.0\Vidu8_DaoNguocChuoi.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\bin\Debug\net9.0\Vidu8_DaoNguocChuoi.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\bin\Debug\net9.0\Vidu8_DaoNguocChuoi.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\bin\Debug\net9.0\Vidu8_DaoNguocChuoi.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\bin\Debug\net9.0\Vidu8_DaoNguocChuoi.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\Vidu8_DaoNguocChuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\Vidu8_DaoNguocChuoi.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\Vidu8_DaoNguocChuoi.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\Vidu8_DaoNguocChuoi.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\Vidu8_DaoNguocChuoi.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\refint\Vidu8_DaoNguocChuoi.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\Vidu8_DaoNguocChuoi.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\Vidu8_DaoNguocChuoi.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu8_DaoNguocChuoi\obj\Debug\net9.0\ref\Vidu8_DaoNguocChuoi.dll
