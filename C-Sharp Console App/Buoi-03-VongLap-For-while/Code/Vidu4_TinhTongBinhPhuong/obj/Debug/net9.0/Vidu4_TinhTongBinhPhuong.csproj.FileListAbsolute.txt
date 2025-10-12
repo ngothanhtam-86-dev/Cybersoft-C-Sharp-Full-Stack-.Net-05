@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\bin\Debug\net9.0\Vidu4_TinhTongBinhPhuong.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\bin\Debug\net9.0\Vidu4_TinhTongBinhPhuong.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\bin\Debug\net9.0\Vidu4_TinhTongBinhPhuong.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\bin\Debug\net9.0\Vidu4_TinhTongBinhPhuong.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\bin\Debug\net9.0\Vidu4_TinhTongBinhPhuong.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\Vidu4_TinhTongBinhPhuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\Vidu4_TinhTongBinhPhuong.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\Vidu4_TinhTongBinhPhuong.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\Vidu4_TinhTongBinhPhuong.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\Vidu4_TinhTongBinhPhuong.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\refint\Vidu4_TinhTongBinhPhuong.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\Vidu4_TinhTongBinhPhuong.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\Vidu4_TinhTongBinhPhuong.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu4_TinhTongBinhPhuong\obj\Debug\net9.0\ref\Vidu4_TinhTongBinhPhuong.dll

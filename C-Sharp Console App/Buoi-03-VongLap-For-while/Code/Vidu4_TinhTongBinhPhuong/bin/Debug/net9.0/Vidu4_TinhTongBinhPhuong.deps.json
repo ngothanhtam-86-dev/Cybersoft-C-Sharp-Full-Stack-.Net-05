@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Vidu4_TinhTongBinhPhuong/1.0.0": {
+        "runtime": {
+          "Vidu4_TinhTongBinhPhuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vidu4_TinhTongBinhPhuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
