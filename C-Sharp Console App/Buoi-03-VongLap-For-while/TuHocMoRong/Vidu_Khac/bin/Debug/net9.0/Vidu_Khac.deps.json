@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Vidu_Khac/1.0.0": {
+        "runtime": {
+          "Vidu_Khac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vidu_Khac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

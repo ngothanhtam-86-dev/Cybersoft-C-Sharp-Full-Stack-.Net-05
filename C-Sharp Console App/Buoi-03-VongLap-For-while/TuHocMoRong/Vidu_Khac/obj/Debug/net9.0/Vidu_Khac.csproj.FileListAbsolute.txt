@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\bin\Debug\net9.0\Vidu_Khac.exe
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\bin\Debug\net9.0\Vidu_Khac.deps.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\bin\Debug\net9.0\Vidu_Khac.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\bin\Debug\net9.0\Vidu_Khac.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\bin\Debug\net9.0\Vidu_Khac.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\Vidu_Khac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\Vidu_Khac.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\Vidu_Khac.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\Vidu_Khac.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\Vidu_Khac.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\refint\Vidu_Khac.dll
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\Vidu_Khac.pdb
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\Vidu_Khac.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\CaNhan\C_Sharp_FullStack\Code\Buoi3-Vong Lap\Vidu_Khac\obj\Debug\net9.0\ref\Vidu_Khac.dll
