@@ -1,0 +1,14 @@
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/bin/Debug/net9.0/BaiTap_TimTuDaiNhat
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/bin/Debug/net9.0/BaiTap_TimTuDaiNhat.deps.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/bin/Debug/net9.0/BaiTap_TimTuDaiNhat.runtimeconfig.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/bin/Debug/net9.0/BaiTap_TimTuDaiNhat.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/bin/Debug/net9.0/BaiTap_TimTuDaiNhat.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/BaiTap_TimTuDaiNhat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/BaiTap_TimTuDaiNhat.AssemblyInfoInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/BaiTap_TimTuDaiNhat.AssemblyInfo.cs
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/BaiTap_TimTuDaiNhat.csproj.CoreCompileInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/BaiTap_TimTuDaiNhat.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/refint/BaiTap_TimTuDaiNhat.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/BaiTap_TimTuDaiNhat.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/BaiTap_TimTuDaiNhat.genruntimeconfig.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/BaiTap_TimTuDaiNhat/obj/Debug/net9.0/ref/BaiTap_TimTuDaiNhat.dll

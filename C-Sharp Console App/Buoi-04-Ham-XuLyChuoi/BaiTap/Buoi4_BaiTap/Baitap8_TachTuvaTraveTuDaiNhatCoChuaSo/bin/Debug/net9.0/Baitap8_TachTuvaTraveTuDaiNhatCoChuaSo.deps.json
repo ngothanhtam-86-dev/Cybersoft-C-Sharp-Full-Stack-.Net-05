@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Baitap8_TachTuvaTraveTuDaiNhatCoChuaSo/1.0.0": {
+        "runtime": {
+          "Baitap8_TachTuvaTraveTuDaiNhatCoChuaSo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Baitap8_TachTuvaTraveTuDaiNhatCoChuaSo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

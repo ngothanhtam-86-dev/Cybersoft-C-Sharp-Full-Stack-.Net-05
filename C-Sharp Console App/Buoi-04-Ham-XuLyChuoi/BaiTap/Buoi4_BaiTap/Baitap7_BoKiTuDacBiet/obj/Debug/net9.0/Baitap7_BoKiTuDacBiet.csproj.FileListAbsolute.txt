@@ -1,0 +1,14 @@
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/bin/Debug/net9.0/Baitap7_BoKiTuDacBiet
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/bin/Debug/net9.0/Baitap7_BoKiTuDacBiet.deps.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/bin/Debug/net9.0/Baitap7_BoKiTuDacBiet.runtimeconfig.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/bin/Debug/net9.0/Baitap7_BoKiTuDacBiet.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/bin/Debug/net9.0/Baitap7_BoKiTuDacBiet.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/Baitap7_BoKiTuDacBiet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/Baitap7_BoKiTuDacBiet.AssemblyInfoInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/Baitap7_BoKiTuDacBiet.AssemblyInfo.cs
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/Baitap7_BoKiTuDacBiet.csproj.CoreCompileInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/Baitap7_BoKiTuDacBiet.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/refint/Baitap7_BoKiTuDacBiet.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/Baitap7_BoKiTuDacBiet.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/Baitap7_BoKiTuDacBiet.genruntimeconfig.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi4_BaiTap/Baitap7_BoKiTuDacBiet/obj/Debug/net9.0/ref/Baitap7_BoKiTuDacBiet.dll
