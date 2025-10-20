@@ -1,0 +1,14 @@
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/bin/Debug/net9.0/BaiTap1_TinhTongMang
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/bin/Debug/net9.0/BaiTap1_TinhTongMang.deps.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/bin/Debug/net9.0/BaiTap1_TinhTongMang.runtimeconfig.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/bin/Debug/net9.0/BaiTap1_TinhTongMang.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/bin/Debug/net9.0/BaiTap1_TinhTongMang.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/BaiTap1_TinhTongMang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/BaiTap1_TinhTongMang.AssemblyInfoInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/BaiTap1_TinhTongMang.AssemblyInfo.cs
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/BaiTap1_TinhTongMang.csproj.CoreCompileInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/BaiTap1_TinhTongMang.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/refint/BaiTap1_TinhTongMang.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/BaiTap1_TinhTongMang.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/BaiTap1_TinhTongMang.genruntimeconfig.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap1_TinhTongMang/obj/Debug/net9.0/ref/BaiTap1_TinhTongMang.dll
