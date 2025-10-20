@@ -1,0 +1,14 @@
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/bin/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/bin/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.deps.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/bin/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.runtimeconfig.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/bin/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/bin/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.AssemblyInfoInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.AssemblyInfo.cs
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.csproj.CoreCompileInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/refint/BaiTap4_PhanTuXuatHienNhieuNhat.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/BaiTap4_PhanTuXuatHienNhieuNhat.genruntimeconfig.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap4_PhanTuXuatHienNhieuNhat/obj/Debug/net9.0/ref/BaiTap4_PhanTuXuatHienNhieuNhat.dll
