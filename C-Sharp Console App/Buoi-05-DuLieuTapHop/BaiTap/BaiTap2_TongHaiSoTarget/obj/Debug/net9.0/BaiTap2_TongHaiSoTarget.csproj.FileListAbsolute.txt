@@ -1,0 +1,14 @@
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/bin/Debug/net9.0/BaiTap2_TongHaiSoTarget
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/bin/Debug/net9.0/BaiTap2_TongHaiSoTarget.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/bin/Debug/net9.0/BaiTap2_TongHaiSoTarget.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/BaiTap2_TongHaiSoTarget.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/BaiTap2_TongHaiSoTarget.AssemblyInfoInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/BaiTap2_TongHaiSoTarget.AssemblyInfo.cs
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/BaiTap2_TongHaiSoTarget.csproj.CoreCompileInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/BaiTap2_TongHaiSoTarget.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/refint/BaiTap2_TongHaiSoTarget.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/BaiTap2_TongHaiSoTarget.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/bin/Debug/net9.0/BaiTap2_TongHaiSoTarget.deps.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/bin/Debug/net9.0/BaiTap2_TongHaiSoTarget.runtimeconfig.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/BaiTap2_TongHaiSoTarget.genruntimeconfig.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap2_TongHaiSoTarget/obj/Debug/net9.0/ref/BaiTap2_TongHaiSoTarget.dll
