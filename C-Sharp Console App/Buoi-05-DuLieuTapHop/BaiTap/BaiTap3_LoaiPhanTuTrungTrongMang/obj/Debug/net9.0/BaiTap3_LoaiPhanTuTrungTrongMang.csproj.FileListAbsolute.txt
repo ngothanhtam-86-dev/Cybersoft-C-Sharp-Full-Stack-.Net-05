@@ -1,0 +1,14 @@
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/bin/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/bin/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.deps.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/bin/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.runtimeconfig.json
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/bin/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/bin/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.AssemblyInfoInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.AssemblyInfo.cs
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.csproj.CoreCompileInputs.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/refint/BaiTap3_LoaiPhanTuTrungTrongMang.dll
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.pdb
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/BaiTap3_LoaiPhanTuTrungTrongMang.genruntimeconfig.cache
+/Users/ngothanhtam/Drive của tôi/MyData/CaNhan/C_Sharp_FullStack/Code/Buoi5_BaiTap/BaiTap3_LoaiPhanTuTrungTrongMang/obj/Debug/net9.0/ref/BaiTap3_LoaiPhanTuTrungTrongMang.dll
